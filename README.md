@@ -1,8 +1,12 @@
 # Bone Fracture Detection  
 
+---
+
 ## 📌 Dataset  
 For dataset go to this link:  
 👉 [GRAZPEDWRI-DX Dataset](https://www.kaggle.com/datasets/jasonroggy/grazpedwri-dx)  
+
+---
 
 ## ⚡ YOLOv7  
 For YOLOv7 go to this link:  
