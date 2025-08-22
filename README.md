@@ -11,7 +11,7 @@ For YOLOv7 go to this link:
 ---
 
 ## 🔄 Dataset Preparation  
-Use `split.py` to split the dataset into **train**, **valid**, and **test** sets.  
+The script `split.py` will divide the dataset into **train**, **valid**, and **test** sets according to the key patient_id stored in `dataset.csv`. The script then will move the files into the relative folder as it is represented here in Dataset Structure. 
 
 ---
 
