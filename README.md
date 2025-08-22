@@ -1,12 +1,17 @@
-# BONE-FRACTURE-DETECTION-SYSTEM 
+# Bone Fracture Detection  
 
 ## 📌 Dataset  
 For dataset go to this link:  
 👉 [GRAZPEDWRI-DX Dataset](https://www.kaggle.com/datasets/jasonroggy/grazpedwri-dx)  
 
-## ⚡ YOLOv  
-For YOLOv go to this link:  
+## ⚡ YOLOv7  
+For YOLOv7 go to this link:  
 👉 [YOLOv7 Repository](https://github.com/WongKinYiu/yolov7)  
+
+---
+
+## 🔄 Dataset Preparation  
+Use `split.py` to split the dataset into **train**, **valid**, and **test** sets.  
 
 ---
 
@@ -39,3 +44,4 @@ For YOLOv go to this link:
           └── test
                ├── test_annotation1.txt
                └── ...
+
