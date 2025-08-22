@@ -8,7 +8,9 @@ For dataset go to this link:
 For YOLOv7 go to this link:  
 👉 [YOLOv7 Repository](https://github.com/WongKinYiu/yolov7)  
 
-# 📂 Dataset Structure  
+---
+
+## 📂 Dataset Structure  
 
 ```bash
 └── GRAZPEDWRI-DX_dataset     
